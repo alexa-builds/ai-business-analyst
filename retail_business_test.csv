@@ -1,0 +1,301 @@
+order_id,order_date,product,category,region,sales_channel,units_sold,unit_price,unit_cost,revenue,total_cost,profit,customer_type,discount_pct
+RB-2026-0001,2026-01-14,Air Fryer,Home,North,Retail Store,2,132.59,57.00,259.88,114.00,145.88,New,2
+RB-2026-0002,2026-01-24,Smart Watch,Electronics,West,Online Store,2,149.99,82.00,281.98,164.00,117.98,Returning,6
+RB-2026-0003,2026-01-18,Air Fryer,Home,North,Retail Store,2,132.59,57.00,259.88,114.00,145.88,New,2
+RB-2026-0004,2026-01-09,Air Fryer,Home,West,Online Store,1,132.59,57.00,123.31,57.00,66.31,Returning,7
+RB-2026-0005,2026-01-04,Smart Watch,Electronics,North,Retail Store,2,149.99,82.00,293.98,164.00,129.98,Returning,2
+RB-2026-0006,2026-01-01,Bluetooth Speaker,Electronics,North,Online Store,1,59.99,25.20,56.99,25.20,31.79,New,5
+RB-2026-0007,2026-01-06,Yoga Mat,Sports,West,Retail Store,2,29.99,9.50,58.78,19.00,39.78,Returning,2
+RB-2026-0008,2026-01-06,Smart Watch,Electronics,East,Retail Store,1,149.99,82.00,145.49,82.00,63.49,Returning,3
+RB-2026-0009,2026-01-10,Smart Watch,Electronics,South,Online Store,3,146.99,82.00,392.46,246.00,146.46,New,11
+RB-2026-0010,2026-01-23,Wireless Headphones,Electronics,East,Online Store,2,78.39,38.50,145.81,77.00,68.81,New,7
+RB-2026-0011,2026-01-24,Coffee Maker,Home,West,Online Store,1,88.19,36.00,82.90,36.00,46.90,New,6
+RB-2026-0012,2026-01-06,Bluetooth Speaker,Electronics,North,Retail Store,3,59.99,25.20,174.57,75.60,98.97,New,3
+RB-2026-0013,2026-01-08,Wireless Headphones,Electronics,West,Online Store,2,81.59,38.50,153.39,77.00,76.39,Returning,6
+RB-2026-0014,2026-01-18,Wireless Headphones,Electronics,South,Online Store,2,79.99,38.50,145.58,77.00,68.58,New,9
+RB-2026-0015,2026-01-14,Bluetooth Speaker,Electronics,North,Retail Store,3,59.99,25.20,178.17,75.60,102.57,Returning,1
+RB-2026-0016,2026-01-17,Air Fryer,Home,North,Marketplace,1,127.39,57.00,118.47,57.00,61.47,Returning,7
+RB-2026-0017,2026-01-14,Smart Watch,Electronics,South,Retail Store,3,149.99,82.00,418.47,246.00,172.47,Business,7
+RB-2026-0018,2026-01-30,Wireless Headphones,Electronics,South,Online Store,2,79.99,38.50,142.38,77.00,65.38,,11
+RB-2026-0019,2026-01-05,Coffee Maker,Home,North,Online Store,1,88.19,36.00,83.78,36.00,47.78,Returning,5
+RB-2026-0020,2026-01-26,Air Fryer,Home,North,Online Store,2,129.99,57.00,249.58,114.00,135.58,Returning,4
+RB-2026-0021,2026-01-28,Coffee Maker,Home,West,Marketplace,2,89.99,36.00,161.98,72.00,89.98,New,10
+RB-2026-0022,2026-01-04,Smart Watch,Electronics,South,Online Store,2,146.99,82.00,264.58,164.00,100.58,Returning,10
+RB-2026-0023,2026-01-07,Bluetooth Speaker,Electronics,West,Marketplace,1,59.99,25.20,55.19,25.20,29.99,Returning,8
+RB-2026-0024,2026-01-03,Bluetooth Speaker,Electronics,North,Online Store,2,59.99,25.20,113.98,50.40,63.58,New,5
+RB-2026-0025,2026-01-08,Wireless Headphones,Electronics,West,Marketplace,1,79.99,38.50,72.79,38.50,34.29,New,9
+RB-2026-0026,2026-01-23,Yoga Mat,Sports,South,Online Store,1,29.99,9.50,27.59,9.50,18.09,Returning,8
+RB-2026-0027,2026-01-30,Wireless Headphones,Electronics,East,Online Store,2,79.99,38.50,147.18,77.00,70.18,Business,8
+RB-2026-0028,2026-01-30,Wireless Headphones,Electronics,North,Marketplace,2,81.59,38.50,146.86,77.00,69.86,New,10
+RB-2026-0029,2026-01-02,Yoga Mat,Sports,East,Marketplace,2,29.39,9.50,52.31,19.00,33.31,New,11
+RB-2026-0030,2026-01-26,Yoga Mat,Sports,North,Retail Store,3,30.59,9.50,89.93,28.50,61.43,New,2
+RB-2026-0031,2026-01-30,Smart Watch,Electronics,East,Marketplace,2,146.99,82.00,267.52,164.00,103.52,Returning,9
+RB-2026-0032,2026-01-28,Smart Watch,Electronics,West,Retail Store,3,149.99,82.00,436.47,246.00,190.47,New,3
+RB-2026-0033,2026-01-19,Blender,Home,West,Online Store,3,48.99,19.50,139.62,58.50,81.12,Returning,5
+RB-2026-0034,2026-01-11,Running Shoes,Sports,North,Retail Store,1,109.99,51.00,107.79,51.00,56.79,New,2
+RB-2026-0035,2026-01-16,Dumbbell Set,Sports,West,Retail Store,3,68.59,29.00,201.65,87.00,114.65,Returning,2
+RB-2026-0036,2026-01-20,Dumbbell Set,Sports,West,Retail Store,1,68.59,29.00,65.16,29.00,36.16,New,5
+RB-2026-0037,2026-01-09,Running Shoes,Sports,East,Retail Store,3,107.79,51.00,310.44,153.00,157.44,New,4
+RB-2026-0038,2026-01-16,Running Shoes,Sports,North,Online Store,2,109.99,51.00,206.78,102.00,104.78,New,6
+RB-2026-0039,2026-01-11,Dumbbell Set,Sports,East,Retail Store,3,69.99,29.00,197.37,87.00,110.37,New,6
+RB-2026-0040,2026-01-02,Dumbbell Set,Sports,East,Marketplace,2,68.59,29.00,124.83,58.00,66.83,Returning,9
+RB-2026-0041,2026-01-21,Dumbbell Set,Sports,South,Online Store,1,68.59,29.00,62.42,29.00,33.42,Returning,9
+RB-2026-0042,2026-01-29,Blender,Home,West,Online Store,2,49.99,19.50,93.98,39.00,54.98,New,6
+RB-2026-0043,2026-01-26,Wireless Headphones,Electronics,East,Retail Store,2,81.59,38.50,153.39,77.00,76.39,New,6
+RB-2026-0044,2026-01-16,Wireless Headphones,Electronics,West,Retail Store,2,81.59,38.50,159.92,77.00,82.92,Returning,2
+RB-2026-0045,2026-01-23,Air Fryer,Home,South,Online Store,2,129.99,57.00,236.58,114.00,122.58,Returning,9
+RB-2026-0046,2026-01-15,Blender,Home,West,Marketplace,2,50.99,19.50,93.82,39.00,54.82,Returning,8
+RB-2026-0047,2026-01-07,Yoga Mat,Sports,South,Online Store,2,29.99,9.50,54.58,19.00,35.58,Returning,9
+RB-2026-0048,2026-01-06,Wireless Headphones,Electronics,South,Retail Store,2,81.59,38.50,150.13,77.00,73.13,Business,8
+RB-2026-0049,2026-01-15,Coffee Maker,Home,North,Marketplace,2,88.19,36.00,160.51,72.00,88.51,Returning,9
+RB-2026-0050,2026-01-24,Air Fryer,Home,North,Online Store,2,129.99,57.00,244.38,114.00,130.38,Returning,6
+RB-2026-0051,2026-02-27,Smart Watch,Electronics,West,Online Store,2,149.99,82.00,278.98,164.00,114.98,New,7
+RB-2026-0052,2026-02-07,Smart Watch,Electronics,West,Marketplace,1,146.99,82.00,135.23,82.00,53.23,Returning,8
+RB-2026-0053,2026-02-21,Air Fryer,Home,South,Online Store,2,129.99,57.00,239.18,114.00,125.18,Returning,8
+RB-2026-0054,2026-02-23,Yoga Mat,Sports,East,Online Store,2,29.99,9.50,56.38,19.00,37.38,Returning,6
+RB-2026-0055,2026-02-19,Wireless Headphones,Electronics,West,Retail Store,3,79.99,38.50,230.37,115.50,114.87,Returning,4
+RB-2026-0056,2026-02-28,Running Shoes,Sports,West,Marketplace,1,107.79,51.00,98.09,51.00,47.09,Returning,9
+RB-2026-0057,2026-02-04,Bluetooth Speaker,Electronics,West,Retail Store,2,58.79,25.20,112.88,50.40,62.48,New,4
+RB-2026-0058,2026-02-28,Coffee Maker,Home,East,Online Store,3,89.99,36.00,248.37,108.00,140.37,New,8
+RB-2026-0059,2026-02-27,Running Shoes,Sports,West,Online Store,2,107.79,51.00,196.18,102.00,94.18,Business,9
+RB-2026-0060,2026-02-21,Coffee Maker,Home,North,Marketplace,1,89.99,36.00,81.89,36.00,45.89,New,9
+RB-2026-0061,2026-02-26,Air Fryer,Home,West,Online Store,3,129.99,57.00,362.67,171.00,191.67,Returning,7
+RB-2026-0062,2026-02-07,Air Fryer,Home,East,Online Store,2,132.59,57.00,246.62,114.00,132.62,New,7
+RB-2026-0063,2026-02-24,Dumbbell Set,Sports,North,Marketplace,2,71.39,29.00,129.93,58.00,71.93,Business,9
+RB-2026-0064,2026-02-03,Coffee Maker,Home,East,Retail Store,2,89.99,36.00,172.78,72.00,100.78,Returning,4
+RB-2026-0065,2026-02-27,Blender,Home,North,Marketplace,2,48.99,19.50,90.14,39.00,51.14,New,8
+RB-2026-0066,2026-02-25,Blender,Home,East,Online Store,1,49.99,19.50,45.99,19.50,26.49,Returning,8
+RB-2026-0067,2026-02-23,Bluetooth Speaker,Electronics,East,Retail Store,2,59.99,25.20,111.58,50.40,61.18,Business,7
+RB-2026-0068,2026-02-09,Bluetooth Speaker,Electronics,West,Online Store,2,61.19,25.20,113.81,50.40,63.41,New,7
+RB-2026-0069,2026-02-12,Air Fryer,Home,East,Retail Store,2,127.39,57.00,244.59,114.00,130.59,New,4
+RB-2026-0070,2026-02-12,Wireless Headphones,Electronics,West,Retail Store,3,79.99,38.50,230.37,115.50,114.87,Returning,4
+RB-2026-0071,2026-02-08,Coffee Maker,Home,East,Online Store,2,89.99,36.00,167.38,72.00,95.38,New,7
+RB-2026-0072,2026-02-01,Blender,Home,East,Online Store,2,49.99,19.50,91.98,39.00,52.98,New,8
+RB-2026-0073,2026-02-01,Running Shoes,Sports,East,Retail Store,3,109.99,51.00,313.47,153.00,160.47,Business,5
+RB-2026-0074,2026-02-14,Air Fryer,Home,West,Online Store,2,127.39,57.00,242.04,114.00,128.04,Returning,5
+RB-2026-0075,2026-02-05,Air Fryer,Home,West,Online Store,2,129.99,57.00,239.18,114.00,125.18,New,8
+RB-2026-0076,2026-02-17,Coffee Maker,Home,West,Marketplace,2,89.99,36.00,160.18,72.00,88.18,New,11
+RB-2026-0077,2026-02-26,Bluetooth Speaker,Electronics,South,Marketplace,2,61.19,25.20,107.69,50.40,57.29,Returning,12
+RB-2026-0078,2026-02-12,Air Fryer,Home,East,Online Store,3,129.99,57.00,366.57,171.00,195.57,Returning,6
+RB-2026-0079,2026-02-15,Dumbbell Set,Sports,North,,2,69.99,29.00,125.98,58.00,67.98,Business,10
+RB-2026-0080,2026-02-04,Coffee Maker,Home,North,Online Store,2,89.99,36.00,169.18,72.00,97.18,New,6
+RB-2026-0081,2026-02-05,Smart Watch,Electronics,East,Marketplace,3,146.99,82.00,396.87,246.00,150.87,New,10
+RB-2026-0082,2026-02-25,Coffee Maker,Home,East,Online Store,3,89.99,36.00,251.07,108.00,143.07,New,7
+RB-2026-0083,2026-02-02,Yoga Mat,Sports,North,Online Store,2,29.99,9.50,56.98,19.00,37.98,Returning,5
+RB-2026-0084,2026-02-16,Wireless Headphones,Electronics,East,Marketplace,2,79.99,38.50,142.38,77.00,65.38,Returning,11
+RB-2026-0085,2026-02-24,Yoga Mat,Sports,North,Online Store,2,29.99,9.50,56.38,19.00,37.38,Business,6
+RB-2026-0086,2026-02-01,Wireless Headphones,Electronics,North,Online Store,2,78.39,38.50,148.94,77.00,71.94,New,5
+RB-2026-0087,2026-02-15,Coffee Maker,Home,West,Marketplace,2,89.99,36.00,161.98,72.00,89.98,New,10
+RB-2026-0088,2026-02-11,Bluetooth Speaker,Electronics,West,Retail Store,2,59.99,25.20,115.18,50.40,64.78,Returning,4
+RB-2026-0089,2026-02-06,Coffee Maker,Home,North,Retail Store,1,89.99,36.00,88.19,36.00,52.19,Returning,2
+RB-2026-0090,2026-02-23,Blender,Home,South,Retail Store,3,50.99,19.50,145.32,58.50,86.82,Returning,5
+RB-2026-0091,2026-02-02,Air Fryer,Home,West,Online Store,2,132.59,57.00,249.27,114.00,135.27,Returning,6
+RB-2026-0092,2026-02-04,Wireless Headphones,Electronics,West,Retail Store,2,81.59,38.50,158.28,77.00,81.28,New,3
+RB-2026-0093,2026-02-21,Smart Watch,Electronics,South,Retail Store,2,149.99,82.00,284.98,164.00,120.98,Returning,5
+RB-2026-0094,2026-02-03,Wireless Headphones,Electronics,North,Online Store,3,79.99,38.50,230.37,115.50,114.87,Returning,4
+RB-2026-0095,2026-02-25,Smart Watch,Electronics,North,Retail Store,1,149.99,82.00,146.99,82.00,64.99,New,2
+RB-2026-0096,2026-02-06,Bluetooth Speaker,Electronics,East,Marketplace,3,58.79,25.20,158.73,75.60,83.13,New,10
+RB-2026-0097,2026-02-24,Coffee Maker,Home,West,Retail Store,1,89.99,36.00,88.19,36.00,52.19,Returning,2
+RB-2026-0098,2026-02-21,Smart Watch,Electronics,South,Marketplace,1,149.99,82.00,130.49,82.00,48.49,New,13
+RB-2026-0099,2026-02-02,Air Fryer,Home,South,Online Store,2,127.39,57.00,231.85,114.00,117.85,New,9
+RB-2026-0100,2026-02-23,Coffee Maker,Home,West,Online Store,2,91.79,36.00,174.40,72.00,102.40,Returning,5
+RB-2026-0101,2026-03-16,Air Fryer,Home,North,Retail Store,3,127.39,57.00,366.88,171.00,195.88,New,4
+RB-2026-0102,2026-03-15,Smart Watch,Electronics,North,Retail Store,3,146.99,82.00,427.74,246.00,181.74,New,3
+RB-2026-0103,2026-03-16,Smart Watch,Electronics,East,Marketplace,3,149.99,82.00,400.47,246.00,154.47,Returning,11
+RB-2026-0104,2026-03-24,Air Fryer,Home,North,Online Store,2,132.59,57.00,251.92,114.00,137.92,Returning,5
+RB-2026-0105,2026-03-23,Yoga Mat,Sports,West,Marketplace,2,29.39,9.50,54.08,19.00,35.08,Returning,8
+RB-2026-0106,2026-03-22,Wireless Headphones,Electronics,South,Retail Store,2,79.99,38.50,150.38,77.00,73.38,New,6
+RB-2026-0107,2026-03-10,Smart Watch,Electronics,West,Retail Store,2,152.99,82.00,287.62,164.00,123.62,Business,6
+RB-2026-0108,2026-03-17,Yoga Mat,Sports,South,Retail Store,3,30.59,9.50,86.26,28.50,57.76,New,6
+RB-2026-0109,2026-03-18,Air Fryer,Home,West,Online Store,3,129.99,57.00,370.47,171.00,199.47,Returning,5
+RB-2026-0110,2026-03-19,Blender,Home,East,Online Store,2,50.99,19.50,95.86,39.00,56.86,Returning,6
+RB-2026-0111,2026-03-14,Bluetooth Speaker,Electronics,East,Retail Store,1,59.99,25.20,56.99,25.20,31.79,Returning,5
+RB-2026-0112,2026-03-24,Dumbbell Set,Sports,North,Online Store,2,69.99,29.00,134.38,58.00,76.38,Returning,4
+RB-2026-0113,2026-03-21,Wireless Headphones,Electronics,West,Online Store,1,81.59,38.50,75.88,38.50,37.38,Business,7
+RB-2026-0114,2026-03-22,Wireless Headphones,Electronics,East,Retail Store,2,79.99,38.50,151.98,77.00,74.98,New,5
+RB-2026-0115,2026-03-12,Coffee Maker,Home,West,Marketplace,2,89.99,36.00,163.78,72.00,91.78,New,9
+RB-2026-0116,2026-03-28,Smart Watch,Electronics,South,Retail Store,2,149.99,82.00,275.98,164.00,111.98,New,8
+RB-2026-0117,2026-03-01,Air Fryer,Home,East,Online Store,1,132.59,57.00,121.98,57.00,64.98,New,8
+RB-2026-0118,2026-03-16,Bluetooth Speaker,Electronics,East,Retail Store,3,59.99,25.20,174.57,75.60,98.97,Returning,3
+RB-2026-0119,2026-03-31,Air Fryer,Home,East,Online Store,2,129.99,57.00,239.18,114.00,125.18,Returning,8
+RB-2026-0120,2026-03-19,Wireless Headphones,Electronics,West,Marketplace,3,78.39,38.50,214.00,115.50,98.50,Returning,9
+RB-2026-0121,2026-03-29,Yoga Mat,Sports,North,Retail Store,1,29.99,9.50,29.09,9.50,19.59,Business,3
+RB-2026-0122,2026-03-31,Air Fryer,Home,West,Online Store,3,127.39,57.00,351.60,171.00,180.60,New,8
+RB-2026-0123,2026-03-24,Air Fryer,Home,East,Marketplace,2,132.59,57.00,238.66,114.00,124.66,New,10
+RB-2026-0124,2026-03-20,Yoga Mat,Sports,West,Online Store,1,30.59,9.50,28.75,9.50,19.25,New,6
+RB-2026-0125,2026-03-04,Blender,Home,North,Online Store,2,49.99,19.50,94.98,39.00,55.98,Returning,5
+RB-2026-0126,2026-03-19,Smart Watch,Electronics,North,Online Store,3,149.99,82.00,422.97,246.00,176.97,Returning,6
+RB-2026-0127,2026-03-08,Yoga Mat,Sports,West,Retail Store,2,29.39,9.50,57.02,19.00,38.02,New,3
+RB-2026-0128,2026-03-31,Dumbbell Set,Sports,West,Marketplace,3,69.99,29.00,188.97,87.00,101.97,New,10
+RB-2026-0129,2026-03-01,Bluetooth Speaker,Electronics,West,Online Store,2,59.99,25.20,113.98,50.40,63.58,Returning,5
+RB-2026-0130,2026-03-15,Coffee Maker,Home,North,Online Store,2,88.19,36.00,167.56,72.00,95.56,New,5
+RB-2026-0131,2026-03-29,Wireless Headphones,Electronics,North,Retail Store,2,81.59,38.50,161.55,77.00,84.55,Returning,1
+RB-2026-0132,2026-03-31,Blender,Home,West,Marketplace,1,50.99,19.50,45.89,19.50,26.39,New,10
+RB-2026-0133,2026-03-23,Air Fryer,Home,East,Online Store,3,132.59,57.00,361.97,171.00,190.97,New,9
+RB-2026-0134,2026-03-09,Smart Watch,Electronics,West,Online Store,3,149.99,82.00,422.97,246.00,176.97,New,6
+RB-2026-0135,2026-03-31,Air Fryer,Home,East,Online Store,2,129.99,57.00,244.38,114.00,130.38,Returning,6
+RB-2026-0136,2026-03-15,Wireless Headphones,Electronics,East,Retail Store,2,79.99,38.50,150.38,77.00,73.38,New,6
+RB-2026-0137,2026-03-03,Smart Watch,Electronics,South,Retail Store,2,149.99,82.00,278.98,164.00,114.98,Business,7
+RB-2026-0138,2026-03-25,Blender,Home,West,Retail Store,1,49.99,19.50,48.49,19.50,28.99,Returning,3
+RB-2026-0139,2026-03-04,Running Shoes,Sports,North,Retail Store,3,107.79,51.00,316.90,153.00,163.90,Returning,2
+RB-2026-0140,2026-03-27,Running Shoes,Sports,West,Online Store,3,109.99,51.00,310.17,153.00,157.17,Returning,6
+RB-2026-0141,2026-03-30,Smart Watch,Electronics,South,Marketplace,1,152.99,82.00,133.10,82.00,51.10,New,13
+RB-2026-0142,2026-03-06,Air Fryer,Home,South,Marketplace,3,129.99,57.00,339.27,171.00,168.27,New,13
+RB-2026-0143,2026-03-26,Blender,Home,East,Retail Store,2,49.99,19.50,93.98,39.00,54.98,New,6
+RB-2026-0144,2026-03-01,Dumbbell Set,Sports,West,Retail Store,3,68.59,29.00,201.65,87.00,114.65,Returning,2
+RB-2026-0145,2026-03-29,Air Fryer,Home,North,Online Store,2,127.39,57.00,239.49,114.00,125.49,New,6
+RB-2026-0146,2026-03-22,Wireless Headphones,Electronics,North,Marketplace,1,81.59,38.50,74.25,38.50,35.75,New,9
+RB-2026-0147,2026-03-07,Smart Watch,Electronics,North,Online Store,2,152.99,82.00,290.68,164.00,126.68,New,5
+RB-2026-0148,2026-03-07,Bluetooth Speaker,Electronics,North,Online Store,2,59.99,25.20,110.38,50.40,59.98,Business,8
+RB-2026-0149,2026-03-17,Coffee Maker,Home,West,Online Store,1,91.79,36.00,86.28,36.00,50.28,New,6
+RB-2026-0150,2026-03-19,Coffee Maker,Home,North,Retail Store,2,89.99,36.00,176.38,72.00,104.38,Returning,2
+RB-2026-0151,2026-04-27,Running Shoes,Sports,South,Retail Store,2,107.79,51.00,204.80,102.00,102.80,Returning,5
+RB-2026-0152,2026-04-04,Smart Watch,Electronics,East,Marketplace,2,146.99,82.00,261.64,164.00,97.64,New,11
+RB-2026-0153,2026-04-27,Bluetooth Speaker,Electronics,North,Online Store,2,58.79,25.20,112.88,50.40,62.48,Returning,4
+RB-2026-0154,2026-04-14,Bluetooth Speaker,Electronics,West,Online Store,2,59.99,25.20,111.58,50.40,61.18,Business,7
+RB-2026-0155,2026-04-09,Bluetooth Speaker,Electronics,West,Retail Store,3,59.99,25.20,174.57,75.60,98.97,New,3
+RB-2026-0156,2026-04-28,Running Shoes,Sports,,Marketplace,1,107.79,51.00,99.17,51.00,48.17,New,8
+RB-2026-0157,2026-04-24,Wireless Headphones,Electronics,North,Online Store,3,79.99,38.50,227.97,115.50,112.47,Returning,5
+RB-2026-0158,2026-04-13,Running Shoes,Sports,East,Retail Store,1,109.99,51.00,104.49,51.00,53.49,New,5
+RB-2026-0159,2026-04-15,Smart Watch,Electronics,East,Retail Store,2,149.99,82.00,290.98,164.00,126.98,Returning,3
+RB-2026-0160,2026-04-24,Wireless Headphones,Electronics,North,Marketplace,2,81.59,38.50,148.49,77.00,71.49,New,9
+RB-2026-0161,2026-04-11,Bluetooth Speaker,Electronics,East,Online Store,1,61.19,25.20,56.29,25.20,31.09,Returning,8
+RB-2026-0162,2026-04-07,Coffee Maker,Home,South,Retail Store,2,88.19,36.00,164.03,72.00,92.03,New,7
+RB-2026-0163,2026-04-28,Air Fryer,Home,South,Marketplace,2,127.39,57.00,221.66,114.00,107.66,New,13
+RB-2026-0164,2026-04-08,Air Fryer,Home,South,Online Store,2,127.39,57.00,226.75,114.00,112.75,New,11
+RB-2026-0165,2026-04-14,Bluetooth Speaker,Electronics,West,Retail Store,1,59.99,25.20,57.59,25.20,32.39,New,4
+RB-2026-0166,2026-04-20,Wireless Headphones,Electronics,East,Marketplace,1,79.99,38.50,72.79,38.50,34.29,Returning,9
+RB-2026-0167,2026-04-30,Coffee Maker,Home,South,Online Store,4,89.99,36.00,331.16,144.00,187.16,Returning,8
+RB-2026-0168,2026-04-19,Wireless Headphones,Electronics,North,Retail Store,2,81.59,38.50,158.28,77.00,81.28,New,3
+RB-2026-0169,2026-04-23,Yoga Mat,Sports,South,Online Store,2,29.39,9.50,52.90,19.00,33.90,Returning,10
+RB-2026-0170,2026-04-27,Yoga Mat,Sports,North,Marketplace,1,29.39,9.50,27.33,9.50,17.83,Returning,7
+RB-2026-0171,2026-04-02,Smart Watch,Electronics,West,Marketplace,3,149.99,82.00,404.97,246.00,158.97,Returning,10
+RB-2026-0172,2026-04-29,Air Fryer,Home,West,Online Store,1,129.99,57.00,122.19,57.00,65.19,New,6
+RB-2026-0173,2026-04-15,Yoga Mat,Sports,West,Retail Store,2,29.99,9.50,56.98,19.00,37.98,New,5
+RB-2026-0174,2026-04-11,Yoga Mat,Sports,North,Online Store,2,30.59,9.50,56.90,19.00,37.90,New,7
+RB-2026-0175,2026-04-13,Air Fryer,Home,North,Retail Store,1,129.99,57.00,127.39,57.00,70.39,Returning,2
+RB-2026-0176,2026-04-02,Air Fryer,Home,West,Retail Store,1,132.59,57.00,128.61,57.00,71.61,Returning,3
+RB-2026-0177,2026-04-25,Running Shoes,Sports,East,Marketplace,4,109.99,51.00,391.56,204.00,187.56,New,11
+RB-2026-0178,2026-04-12,Wireless Headphones,Electronics,West,Retail Store,1,81.59,38.50,79.14,38.50,40.64,Returning,3
+RB-2026-0179,2026-04-21,Wireless Headphones,Electronics,West,Retail Store,3,81.59,38.50,232.53,115.50,117.03,New,5
+RB-2026-0180,2026-04-08,Bluetooth Speaker,Electronics,East,Marketplace,2,59.99,25.20,107.98,50.40,57.58,New,10
+RB-2026-0181,2026-04-17,Running Shoes,Sports,North,Retail Store,2,107.79,51.00,213.42,102.00,111.42,Returning,1
+RB-2026-0182,2026-04-13,Yoga Mat,Sports,East,Online Store,2,29.99,9.50,55.78,19.00,36.78,Returning,7
+RB-2026-0183,2026-04-05,Blender,Home,East,Online Store,1,49.99,19.50,46.49,19.50,26.99,New,7
+RB-2026-0184,2026-04-13,Blender,Home,South,Online Store,4,48.99,19.50,178.32,78.00,100.32,New,9
+RB-2026-0185,2026-04-11,Smart Watch,Electronics,West,Retail Store,2,149.99,82.00,290.98,164.00,126.98,Returning,3
+RB-2026-0186,2026-04-05,Yoga Mat,Sports,East,Marketplace,2,30.59,9.50,55.67,19.00,36.67,Returning,9
+RB-2026-0187,2026-04-27,Air Fryer,Home,East,Online Store,2,132.59,57.00,249.27,114.00,135.27,Returning,6
+RB-2026-0188,2026-04-05,Yoga Mat,Sports,East,Online Store,2,30.59,9.50,57.51,19.00,38.51,Returning,6
+RB-2026-0189,2026-04-07,Dumbbell Set,Sports,East,Online Store,3,68.59,29.00,189.31,87.00,102.31,Returning,8
+RB-2026-0190,2026-04-23,Air Fryer,Home,East,Marketplace,2,129.99,57.00,226.18,114.00,112.18,Business,13
+RB-2026-0191,2026-04-09,Air Fryer,Home,North,Retail Store,2,127.39,57.00,252.23,114.00,138.23,Returning,1
+RB-2026-0192,2026-04-27,Running Shoes,Sports,North,Retail Store,2,107.79,51.00,206.96,102.00,104.96,New,4
+RB-2026-0193,2026-04-20,Bluetooth Speaker,Electronics,North,Marketplace,1,59.99,25.20,53.99,25.20,28.79,Business,10
+RB-2026-0194,2026-04-08,Smart Watch,Electronics,West,Retail Store,1,149.99,82.00,146.99,82.00,64.99,Returning,2
+RB-2026-0195,2026-04-09,Air Fryer,Home,North,Marketplace,3,132.59,57.00,365.95,171.00,194.95,New,8
+RB-2026-0196,2026-04-24,Bluetooth Speaker,Electronics,West,Retail Store,2,59.99,25.20,116.38,50.40,65.98,New,3
+RB-2026-0197,2026-04-06,Dumbbell Set,Sports,East,Retail Store,3,69.99,29.00,195.27,87.00,108.27,Business,7
+RB-2026-0198,2026-04-01,Running Shoes,Sports,South,Online Store,2,109.99,51.00,197.98,102.00,95.98,New,10
+RB-2026-0199,2026-04-09,Air Fryer,Home,East,Online Store,2,129.99,57.00,233.98,114.00,119.98,Business,10
+RB-2026-0200,2026-04-01,Blender,Home,North,Retail Store,2,49.99,19.50,98.98,39.00,59.98,Returning,1
+RB-2026-0027,2026-05-31,Smart Watch,Electronics,North,Online Store,2,151.19,82.00,290.28,164.00,126.28,Returning,4
+RB-2026-0202,2026-05-12,Yoga Mat,Sports,East,Marketplace,2,30.23,9.50,53.20,19.00,34.20,New,12
+RB-2026-0203,2026-05-06,Wireless Headphones,Electronics,North,Online Store,3,79.02,38.50,225.21,115.50,109.71,New,5
+RB-2026-0204,2026-05-14,Yoga Mat,Sports,North,Retail Store,4,30.23,9.50,118.50,38.00,80.50,New,2
+RB-2026-0205,2026-05-18,Smart Watch,Electronics,North,Online Store,1,154.21,82.00,146.50,82.00,64.50,Returning,5
+RB-2026-0206,2026-05-29,Blender,Home,North,Online Store,2,49.38,19.50,92.83,39.00,53.83,Returning,6
+RB-2026-0207,2026-05-22,Wireless Headphones,Electronics,East,Online Store,3,80.63,38.50,220.12,115.50,104.62,New,9
+RB-2026-0208,2026-05-10,Wireless Headphones,Electronics,West,Online Store,1,82.24,38.50,78.13,38.50,39.63,Returning,5
+RB-2026-0209,2026-05-19,Wireless Headphones,Electronics,West,Retail Store,2,79.02,38.50,151.72,77.00,74.72,Business,4
+RB-2026-0210,2026-05-24,Coffee Maker,Home,North,Retail Store,3,90.71,36.00,263.97,108.00,155.97,Business,3
+RB-2026-0211,2026-05-13,Wireless Headphones,Electronics,East,Online Store,3,80.63,38.50,224.96,115.50,109.46,Returning,7
+RB-2026-0212,2026-05-11,Smart Watch,Electronics,North,Retail Store,2,154.21,82.00,305.34,164.00,141.34,Returning,1
+RB-2026-0213,2026-05-15,Dumbbell Set,Sports,East,Online Store,3,70.55,29.00,194.72,87.00,107.72,Business,8
+RB-2026-0214,2026-05-09,Running Shoes,Sports,South,Online Store,3,108.65,51.00,293.36,153.00,140.36,New,10
+RB-2026-0215,2026-05-25,Air Fryer,Home,South,Marketplace,3,131.03,57.00,341.99,171.00,170.99,New,13
+RB-2026-0216,2026-05-29,Yoga Mat,Sports,West,Online Store,2,30.83,9.50,57.34,19.00,38.34,Business,7
+RB-2026-0217,2026-05-28,Bluetooth Speaker,Electronics,South,Retail Store,2,59.26,25.20,111.41,50.40,61.01,Returning,6
+RB-2026-0218,2026-05-13,Air Fryer,Home,East,Retail Store,2,128.41,57.00,249.12,114.00,135.12,Returning,3
+RB-2026-0219,2026-05-12,Blender,Home,West,Marketplace,1,49.38,19.50,43.95,19.50,24.45,Business,11
+RB-2026-0220,2026-05-27,Coffee Maker,Home,West,Marketplace,3,92.52,36.00,252.58,108.00,144.58,New,9
+RB-2026-0221,2026-05-27,Wireless Headphones,Electronics,West,Online Store,1,82.24,38.50,76.48,38.50,37.98,New,7
+RB-2026-0222,2026-05-09,Bluetooth Speaker,Electronics,North,Online Store,2,59.26,25.20,112.59,50.40,62.19,New,5
+RB-2026-0223,2026-05-28,Wireless Headphones,Electronics,East,Retail Store,2,79.02,38.50,151.72,77.00,74.72,New,4
+RB-2026-0224,2026-05-01,Bluetooth Speaker,Electronics,East,Online Store,1,61.68,25.20,57.36,25.20,32.16,New,7
+RB-2026-0225,2026-05-07,Wireless Headphones,Electronics,North,Online Store,3,80.63,38.50,229.80,115.50,114.30,New,5
+RB-2026-0226,2026-05-27,Dumbbell Set,Sports,West,Marketplace,2,70.55,29.00,128.40,58.00,70.40,Returning,9
+RB-2026-0227,2026-05-18,Yoga Mat,Sports,West,Retail Store,3,30.23,9.50,88.88,28.50,60.38,Returning,2
+RB-2026-0228,2026-05-19,Running Shoes,Sports,East,Marketplace,3,113.09,51.00,301.95,153.00,148.95,Business,11
+RB-2026-0229,2026-05-14,Yoga Mat,Sports,West,Retail Store,1,29.63,9.50,28.44,9.50,18.94,New,4
+RB-2026-0230,2026-05-08,Air Fryer,Home,West,Online Store,2,131.03,57.00,246.34,114.00,132.34,Returning,6
+RB-2026-0231,2026-05-28,Bluetooth Speaker,Electronics,South,Marketplace,2,59.26,25.20,103.11,50.40,52.71,Returning,13
+RB-2026-0232,2026-05-23,Wireless Headphones,Electronics,East,Retail Store,2,80.63,38.50,156.42,77.00,79.42,Returning,3
+RB-2026-0233,2026-05-02,Air Fryer,Home,West,Retail Store,2,131.03,57.00,254.20,114.00,140.20,New,3
+RB-2026-0234,2026-05-01,Bluetooth Speaker,Electronics,West,Retail Store,1,59.26,25.20,58.07,25.20,32.87,Returning,2
+RB-2026-0235,2026-05-06,Smart Watch,Electronics,West,Online Store,3,151.19,82.00,421.82,246.00,175.82,Business,7
+RB-2026-0236,2026-05-28,Coffee Maker,Home,South,Retail Store,1,90.71,36.00,86.17,36.00,50.17,Returning,5
+RB-2026-0237,2026-05-31,Blender,Home,North,Retail Store,2,49.38,19.50,95.80,39.00,56.80,Business,3
+RB-2026-0238,2026-05-24,Coffee Maker,Home,East,Retail Store,3,92.52,36.00,266.46,108.00,158.46,New,4
+RB-2026-0239,2026-05-07,Dumbbell Set,Sports,West,Online Store,2,70.55,29.00,134.05,58.00,76.05,Returning,5
+RB-2026-0240,2026-05-29,Bluetooth Speaker,Electronics,North,Marketplace,2,59.26,25.20,106.67,50.40,56.27,New,10
+RB-2026-0241,2026-05-16,Coffee Maker,Home,West,Retail Store,3,88.90,36.00,253.37,108.00,145.37,Business,5
+RB-2026-0242,2026-05-10,Smart Watch,Electronics,North,Retail Store,2,154.21,82.00,305.34,164.00,141.34,Returning,1
+RB-2026-0243,2026-05-31,Smart Watch,Electronics,West,Online Store,3,151.19,82.00,421.82,246.00,175.82,New,7
+RB-2026-0244,2026-05-12,Running Shoes,Sports,East,Online Store,2,113.09,51.00,208.09,102.00,106.09,New,8
+RB-2026-0245,2026-05-04,Wireless Headphones,Electronics,East,Online Store,1,79.02,38.50,72.70,38.50,34.20,New,8
+RB-2026-0246,2026-05-17,Blender,Home,West,Online Store,2,49.38,19.50,91.85,39.00,52.85,Returning,7
+RB-2026-0247,2026-05-13,Wireless Headphones,Electronics,South,Retail Store,2,80.63,38.50,153.20,77.00,76.20,Returning,5
+RB-2026-0248,2026-05-13,Smart Watch,Electronics,East,Retail Store,1,148.17,82.00,139.28,82.00,57.28,New,6
+RB-2026-0249,2026-05-19,Blender,Home,West,Online Store,2,50.39,19.50,91.71,39.00,52.71,Business,9
+RB-2026-0250,2026-05-28,Smart Watch,Electronics,South,Marketplace,2,154.21,82.00,271.41,164.00,107.41,Returning,12
+RB-2026-0251,2026-06-29,Air Fryer,Home,West,Online Store,2,131.94,57.00,248.05,114.00,134.05,Returning,6
+RB-2026-0252,2026-06-25,Yoga Mat,Sports,East,Retail Store,2,29.83,9.50,57.27,19.00,38.27,New,4
+RB-2026-0253,2026-06-25,Running Shoes,Sports,East,Online Store,3,109.41,51.00,301.97,153.00,148.97,Returning,8
+RB-2026-0254,2026-06-30,Air Fryer,Home,East,Online Store,4,134.58,57.00,489.87,228.00,261.87,New,9
+RB-2026-0255,2026-06-15,Running Shoes,Sports,North,Online Store,3,111.64,51.00,321.52,153.00,168.52,Returning,4
+RB-2026-0256,2026-06-10,Yoga Mat,Sports,West,Marketplace,3,30.44,9.50,83.10,28.50,54.60,New,9
+RB-2026-0257,2026-06-05,Air Fryer,Home,South,Retail Store,2,129.30,57.00,243.08,114.00,129.08,Returning,6
+RB-2026-0258,2026-06-21,Smart Watch,Electronics,North,Retail Store,2,152.24,82.00,301.44,164.00,137.44,Returning,1
+RB-2026-0259,2026-06-29,Air Fryer,Home,West,Online Store,2,134.58,57.00,253.01,114.00,139.01,New,6
+RB-2026-0260,2026-06-20,Yoga Mat,Sports,North,Retail Store,2,30.44,9.50,58.44,19.00,39.44,New,4
+RB-2026-0261,2026-06-30,Air Fryer,Home,North,Online Store,3,131.94,57.00,376.03,171.00,205.03,New,5
+RB-2026-0262,2026-06-07,Bluetooth Speaker,Electronics,North,Marketplace,2,62.11,25.20,113.04,50.40,62.64,Returning,9
+RB-2026-0263,2026-06-30,Wireless Headphones,Electronics,South,Online Store,3,82.81,38.50,226.07,115.50,110.57,Returning,9
+RB-2026-0264,2026-06-04,Bluetooth Speaker,Electronics,East,Marketplace,3,60.89,25.20,164.40,75.60,88.80,New,10
+RB-2026-0265,2026-06-01,Yoga Mat,Sports,North,Online Store,1,31.05,9.50,29.19,9.50,19.69,Business,6
+RB-2026-0266,2026-06-21,Bluetooth Speaker,Electronics,West,Online Store,1,60.89,25.20,57.24,25.20,32.04,Returning,6
+RB-2026-0267,2026-06-30,Dumbbell Set,Sports,East,Marketplace,2,71.04,29.00,127.87,58.00,69.87,New,10
+RB-2026-0268,2026-06-27,Air Fryer,Home,East,Marketplace,3,131.94,57.00,352.28,171.00,181.28,Business,11
+RB-2026-0269,2026-06-20,Smart Watch,Electronics,East,Online Store,2,149.20,82.00,274.53,164.00,110.53,New,8
+RB-2026-0270,2026-06-10,Coffee Maker,Home,West,Online Store,2,89.51,36.00,170.07,72.00,98.07,Returning,5
+RB-2026-0271,2026-06-06,Wireless Headphones,Electronics,South,Retail Store,2,81.19,38.50,151.01,77.00,74.01,Returning,7
+RB-2026-0272,2026-06-16,Wireless Headphones,Electronics,South,Online Store,3,82.81,38.50,228.56,115.50,113.06,Returning,8
+RB-2026-0273,2026-06-02,Coffee Maker,Home,West,Online Store,2,91.34,36.00,171.72,72.00,99.72,Returning,6
+RB-2026-0274,2026-06-26,Blender,Home,West,Marketplace,3,50.74,19.50,137.00,58.50,78.50,New,10
+RB-2026-0275,2026-06-03,Bluetooth Speaker,Electronics,South,Marketplace,3,62.11,25.20,163.97,75.60,88.37,New,12
+RB-2026-0276,2026-06-20,Coffee Maker,Home,South,Online Store,3,93.17,36.00,254.35,108.00,146.35,Returning,9
+RB-2026-0277,2026-06-22,Air Fryer,Home,West,Retail Store,3,134.58,57.00,383.55,171.00,212.55,New,5
+RB-2026-0278,2026-06-05,Coffee Maker,Home,East,Online Store,4,89.51,36.00,336.56,144.00,192.56,Returning,6
+RB-2026-0279,2026-06-03,Air Fryer,Home,North,Retail Store,2,129.30,57.00,248.26,114.00,134.26,New,4
+RB-2026-0280,2026-06-22,Air Fryer,Home,West,Retail Store,3,131.94,57.00,379.99,171.00,208.99,Business,4
+RB-2026-0281,2026-06-20,Blender,Home,West,Online Store,1,50.74,19.50,47.70,19.50,28.20,New,6
+RB-2026-0282,2026-06-20,Running Shoes,Sports,East,Retail Store,4,111.64,51.00,424.23,204.00,220.23,Returning,5
+RB-2026-0283,2026-06-03,Wireless Headphones,Electronics,East,Retail Store,3,82.81,38.50,233.52,115.50,118.02,New,6
+RB-2026-0284,2026-06-22,Wireless Headphones,Electronics,South,Online Store,3,82.81,38.50,223.59,115.50,108.09,Business,10
+RB-2026-0285,2026-06-30,Blender,Home,East,Online Store,3,50.74,19.50,140.04,58.50,81.54,New,8
+RB-2026-0286,2026-06-11,Running Shoes,Sports,West,Retail Store,3,111.64,51.00,321.52,153.00,168.52,New,4
+RB-2026-0287,2026-06-02,Running Shoes,Sports,West,Marketplace,2,111.64,51.00,200.95,102.00,98.95,New,10
+RB-2026-0288,2026-06-26,Air Fryer,Home,North,Online Store,3,131.94,57.00,379.99,171.00,208.99,Returning,4
+RB-2026-0289,2026-06-24,Yoga Mat,Sports,West,Marketplace,2,30.44,9.50,54.79,19.00,35.79,Returning,10
+RB-2026-0290,2026-06-27,Coffee Maker,Home,West,Online Store,4,91.34,36.00,343.44,144.00,199.44,New,6
+RB-2026-0291,2026-06-05,Wireless Headphones,Electronics,West,Retail Store,3,81.19,38.50,238.70,115.50,123.20,Returning,2
+RB-2026-0292,2026-06-05,Bluetooth Speaker,Electronics,East,Online Store,2,60.89,25.20,113.26,50.40,62.86,Returning,7
+RB-2026-0293,2026-06-12,Running Shoes,Sports,North,Online Store,2,109.41,51.00,210.07,102.00,108.07,Returning,4
+RB-2026-0294,2026-06-10,Running Shoes,Sports,West,Retail Store,3,109.41,51.00,315.10,153.00,162.10,Returning,4
+RB-2026-0295,2026-06-30,Wireless Headphones,Electronics,West,Online Store,3,79.57,38.50,217.23,115.50,101.73,Business,9
+RB-2026-0296,2026-06-27,Dumbbell Set,Sports,East,Retail Store,1,71.04,29.00,68.20,29.00,39.20,New,4
+RB-2026-0297,2026-06-30,Smart Watch,Electronics,West,Online Store,2,149.20,82.00,283.48,164.00,119.48,Returning,5
+RB-2026-0298,2026-06-18,Smart Watch,Electronics,East,Online Store,1,152.24,82.00,140.06,82.00,58.06,Returning,8
+RB-2026-0299,2026-06-03,Wireless Headphones,Electronics,West,Marketplace,3,81.19,38.50,224.08,115.50,108.58,Returning,8
+RB-2026-0300,2026-06-01,Coffee Maker,Home,West,Marketplace,3,91.34,36.00,252.10,108.00,144.10,Returning,8
